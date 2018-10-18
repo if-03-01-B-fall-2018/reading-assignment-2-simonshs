@@ -1,7 +1,18 @@
 p{
-    color: red;
+    color: black;
 }
 
 body{
     background-color: lightblue;
+}
+
+h1{
+    color: blue;
+    font-size: x-large;
+    text-align: center;
+}
+
+h2{
+    font-size: large;
+    color: darkblue;
 }
